@@ -1,1 +1,1 @@
-
+create table rama15()
