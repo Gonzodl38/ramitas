@@ -13,3 +13,4 @@ create table animals(
     name varchar(20),
     age int
 )
+create table qqt{}
